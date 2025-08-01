@@ -1,6 +1,6 @@
 {
   "name": "dragon-realm",
-  "private": true,
+  "private": false,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
@@ -17,8 +17,8 @@
     "@phosphor-icons/react": "^2.1.5",
     "clsx": "^2.1.1",
     "lucide-react": "^0.536.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
     "react-router-dom": "^6.23.1"
   },
   "devDependencies": {
@@ -31,7 +31,15 @@
     "typescript": "^5.2.2",
     "vite": "^5.2.0"
   },
-  "keywords": ["rpg", "dragon", "fantasy", "react", "typescript", "material-ui", "tailwind"],
+  "keywords": [
+    "rpg",
+    "dragon",
+    "fantasy",
+    "react",
+    "typescript",
+    "material-ui",
+    "tailwind"
+  ],
   "author": "Dragon Realm Team",
   "license": "MIT",
   "description": "Um site épico de RPG medieval com dragões e magia, desenvolvido com React, Material UI e Tailwind CSS"
